@@ -14,17 +14,17 @@ scrollback_lines      10000
 ```
 | Keybinds | Description |
 | --- | --- |
-| `ctrl+shift+c` | copy_to_clipboard |
-| `ctrl+shift+v` | paste_from_clipboard |
-| `ctrl+shift+enter` | new_window |
-| `ctrl+shift+backspace` | close_window |
-| `ctrl+shift+k` | next_window |
-| `ctrl+shift+j` | previous_window |
-| `ctrl+shift+l` | move_window_forward |
-| `ctrl+shift+h` | move_window_backward |
-| `ctrl+shift+n` | new_tab |
-| `ctrl+tab` | next_tab |
-| `ctrl+shift+w` | close_tab |
+| `ctrl+shift+c` | `copy_to_clipboard` |
+| `ctrl+shift+v` | `paste_from_clipboard` |
+| `ctrl+shift+enter` | `new_window` |
+| `ctrl+shift+backspace` | `close_window` |
+| `ctrl+shift+k` | `next_window` |
+| `ctrl+shift+j` | `previous_window` |
+| `ctrl+shift+l` | `move_window_forward` |
+| `ctrl+shift+h` | `move_window_backward` |
+| `ctrl+shift+n` | `new_tab` |
+| `ctrl+tab` | `next_tab` |
+| `ctrl+shift+w` | `close_tab` |
 
 ```config
 tab_bar_edge top
