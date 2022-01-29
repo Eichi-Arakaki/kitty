@@ -26,6 +26,7 @@ scrollback_lines      10000
 | `ctrl+tab` | `next_tab` |
 | `ctrl+shift+w` | `close_tab` |
 
+```config:``` 
 ```config
 tab_bar_edge top
 tab_bar_margin_width 0.0
