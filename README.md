@@ -1,8 +1,8 @@
 ```config
 font_family           monospace
-font_size             10.0
+font_size             9.8
 font_features         none
-font_family           Fira Code
+font_family           Cascadia Code PL
 window_margin_width   15
 background_opacity    1
 background_image      none
